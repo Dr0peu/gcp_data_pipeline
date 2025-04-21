@@ -4,7 +4,7 @@ provider "google" {
 }
 
 terraform{
-    backend "gsc" {
+    backend "gcs" {
         bucket = "gcs-data-pipeline270322"
         prefix = "terraform/state"
     }

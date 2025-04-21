@@ -1,2 +1,2 @@
-project_id = "gcp_data-pipeline"
+project_id = "gcp_data_pipeline"
 region = "us-central1"
